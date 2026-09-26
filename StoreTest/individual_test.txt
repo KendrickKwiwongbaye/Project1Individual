@@ -1,34 +1,15 @@
-﻿**********************
+**********************
 Windows PowerShell transcript start
 Start time: 20260925232759
-Username: DESKTOP-TPUKOE7\Kendrick Kwiwongbaye
-RunAs User: DESKTOP-TPUKOE7\Kendrick Kwiwongbaye
-Configuration Name: 
-Machine: DESKTOP-TPUKOE7 (Microsoft Windows NT 10.0.26200.0)
-Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
-Process ID: 16328
-PSVersion: 5.1.26100.9444
-PSEdition: Desktop
-PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9444
-BuildVersion: 10.0.26100.9444
-CLRVersion: 4.0.30319.42000
-WSManStackVersion: 3.0
-PSRemotingProtocolVersion: 2.3
-SerializationVersion: 1.1.0.1
 **********************
-Transcript started, output file is individual_test.txt
-PS C:\Users\Kendrick Kwiwongbaye\Downloads\Project1Individual-main\StoreTest> javac *.java
+Transcript started
 
-PS C:\Users\Kendrick Kwiwongbaye\Downloads\Project1Individual-main\StoreTest> java ProductTest
+PS ...\StoreTest> javac *.java
+PS ...\StoreTest> java ProductTest
+PS ...\StoreTest> java WishlistItemTest
+PS ...\StoreTest> java ClientTest
+PS ...\StoreTest> java StoreSystemTest
 
-PS C:\Users\Kendrick Kwiwongbaye\Downloads\Project1Individual-main\StoreTest> java WishlistItemTest
-
-PS C:\Users\Kendrick Kwiwongbaye\Downloads\Project1Individual-main\StoreTest> java ClientTest
-
-PS C:\Users\Kendrick Kwiwongbaye\Downloads\Project1Individual-main\StoreTest> java StoreSystemTest
-
-PS C:\Users\Kendrick Kwiwongbaye\Downloads\Project1Individual-main\StoreTest> Stop-Transcript
 **********************
 Windows PowerShell transcript end
-End time: 20260925232803
 **********************
